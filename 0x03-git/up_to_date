@@ -1,9 +1,2 @@
-pwd
-ls
-cd
-mv
-mkdir
-rmdir
-cp
-less
-touch
+git pull
+git push
